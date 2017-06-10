@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_fb9a9a312340dc7b29cc987bd52eb73911bee2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saiprasanthk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0d811c7f76975c7b86baafd7865d926a7eb6e9da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_8bf049eca929018d59c47f0d862c695cb4cd6618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioWorkspace\CamaraSample\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_925804a755ea80690b846a62afb4bdde0f0e8cf7.jar" />
+    </item>
+
+</items>
